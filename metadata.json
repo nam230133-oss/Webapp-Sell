@@ -1,0 +1,6 @@
+{
+  "name": "GAZU — Modern Luxury Fashion & Streetwear",
+  "description": "Editorial desktop-first fashion storefront with real-time ATP inventory, AI Stylist advisor, and interactive Group Buying Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
